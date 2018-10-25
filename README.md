@@ -3,8 +3,6 @@
 Looking to get up and running with Processing on the IntelliJ IDE? Better start [here](https://github.com/mkj-is/processing-intellij).
 Tired of cloning and moving between projects? Try this template on for size. 
 
-# Using Processing 3 in IntelliJ IDEA
-
 ![image](https://user-images.githubusercontent.com/7855659/47369190-70038800-d6e3-11e8-9ae0-1090784ca0e0.png)
 
 Setting up:
