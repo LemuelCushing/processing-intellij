@@ -1,11 +1,13 @@
 # A multi-sketch [Processing 3](https://processing.org) template for [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
-Looking to get up and running with Processing on the IntelliJ IDE? Better start [here](https://github.com/mkj-is/processing-intellij).
+Looking to get up and running with Processing on the IntelliJ IDE? You're probably better of starting with [mkj-is/processing-intellij](https://github.com/mkj-is/processing-intellij).
+
 Tired of cloning and moving between projects? Try this template on for size. 
 
 ![image](https://user-images.githubusercontent.com/7855659/47369190-70038800-d6e3-11e8-9ae0-1090784ca0e0.png)
 
-Setting up:
+
+## Setting up: 
 
 1. Clone this repo 
 1. Open the project in IntelliJ IDEA (File > Open.. > Navigate to processing-intellij)
@@ -38,4 +40,4 @@ File > Import Settings... > navigate to processing-intellij folder and select ``
 
 This project contains the Processing core libraries and is therefore distibuted under [GPL licence](LICENSE.md).
 
-*Thank you Processing!*
+Based on [mkj-is/processing-intellij](https://github.com/mkj-is/processing-intellij)
